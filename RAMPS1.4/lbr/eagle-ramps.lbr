@@ -149,10 +149,10 @@
 <wire x1="3.429" y1="-2.032" x2="3.429" y2="-3.302" width="0.1524" layer="21"/>
 <wire x1="3.429" y1="-0.508" x2="3.429" y2="-2.032" width="0.1524" layer="51"/>
 <wire x1="3.429" y1="-0.508" x2="3.429" y2="0" width="0.1524" layer="21"/>
-<pad name="1" x="-2.2606" y="-1.2446" drill="1.016" shape="octagon"/>
-<pad name="2" x="2.2606" y="-1.2446" drill="1.016"/>
-<pad name="3" x="-3.5052" y="1.2446" drill="1.4986" diameter="2.159"/>
-<pad name="4" x="3.66395" y="1.2446" drill="1.4986" diameter="2.159"/>
+<pad name="1" x="-2.2606" y="-1.2446" drill="1.016" diameter="2.3" shape="octagon"/>
+<pad name="2" x="2.2606" y="-1.2446" drill="1.016" diameter="2.3"/>
+<pad name="3" x="-3.5052" y="1.2446" drill="1.4986" diameter="2.3"/>
+<pad name="4" x="3.66395" y="1.2446" drill="1.4986" diameter="2.3"/>
 <text x="-2.54" y="2.54" size="1.27" layer="25" ratio="10">&gt;NAME</text>
 <text x="-3.683" y="-5.969" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
 </package>
